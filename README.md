@@ -15,11 +15,10 @@ Este projeto utiliza reconhecimento óptico de caracteres (OCR) para extrair tex
 3. Os resultados foram salvos na pasta `output`.
 
 ## Prints
+![Captura de tela 2025-03-12 192441](https://github.com/user-attachments/assets/d49df75e-9044-4c69-a421-89044a7bca91)
+![Captura de tela 2025-03-12 192254](https://github.com/user-attachments/assets/8187d4f6-6ec5-468b-af63-5a770ad710f8)
 
-![Captura de tela 2025-03-12 192254](https://github.com/user-attachments/assets/71d2fddb-5fb5-4402-be3b-481527dbfe49)
-![Captura de tela 2025-03-12 192627](https://github.com/user-attachments/assets/644b6b4a-8633-4244-ae60-fd12cc0fdd36)
-
-![Captura de tela 2025-03-12 192627](https://github.com/user-attachments/assets/5e08b74d-f909-4110-9138-6f416cdbc65f)
+![Captura de tela 2025-03-12 192627](https://github.com/user-attachments/assets/2d2de37f-da50-4089-b115-5e608a5d0908)
 
 
 ## Insights e Possibilidades
