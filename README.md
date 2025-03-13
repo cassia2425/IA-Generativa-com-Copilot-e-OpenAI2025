@@ -18,7 +18,7 @@ Este projeto utiliza reconhecimento óptico de caracteres (OCR) para extrair tex
 ![Captura de tela 2025-03-12 192441](https://github.com/user-attachments/assets/d49df75e-9044-4c69-a421-89044a7bca91)
 ![Captura de tela 2025-03-12 192254](https://github.com/user-attachments/assets/8187d4f6-6ec5-468b-af63-5a770ad710f8)
 
-![Captura de tela 2025-03-12 192627](https://github.com/user-attachments/assets/2d2de37f-da50-4089-b115-5e608a5d0908)
+inputs
 
 
 ## Insights e Possibilidades
