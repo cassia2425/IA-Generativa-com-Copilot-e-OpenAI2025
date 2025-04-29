@@ -1,4 +1,4 @@
-# IA-Generativa-com-Copilot-e-OpenAI2025
+# IA Generativa com Copilot e OpenAI2025
 # Projeto de Reconhecimento de Texto
 
 Este projeto utiliza reconhecimento óptico de caracteres (OCR) para extrair textos de imagens. 
